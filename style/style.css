@@ -83,15 +83,15 @@ body {
 
 .input-text input {
     width: 15rem;
-    height: 32px;
+    height: 35px;
     background-color: #333333a6;
     color: white;
     border-radius: 6px;
     border: none;
     /* outline: transparent; */
-    text-indent: 18px;
-    line-height: 1.5;
-    font-size: 20px;
+    text-indent: 7px;
+    line-height: 0.5;
+    font-size: 17px;
     opacity: 60%;
 }
 
